@@ -1,5 +1,5 @@
 # pimpmkscraper
-Web Scraper for the status page of PimpMyKeyboard
+Scraper that gets the status page of PimpMyKeyboard.com and formats it into a reddit post.
 
 ### scraper.py
 The bread of the process. This scrapes the page, then uses XPath and Pandas to spit out a csv of the status table. 
