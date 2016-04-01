@@ -32,7 +32,6 @@ def main():
 
 
 
-
 # COMPUTATIONALTIMING #
 start_time = time.time()
 main()
